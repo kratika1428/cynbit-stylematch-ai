@@ -1,0 +1,14 @@
+item,category,color,style,occasion
+White shirt,Top,White,Classic|Minimal,Casual|Formal|Party
+Black shirt,Top,Black,Classic|Minimal|Trendy,Casual|Formal|Party
+Blue shirt,Top,Blue,Classic|Minimal,Casual|Formal
+Graphic T-shirt,Top,Multicolor,Trendy,Casual|Party
+Beige chinos,Bottom,Beige,Classic|Minimal,Casual
+Black trousers,Bottom,Black,Classic|Minimal,Formal
+Blue jeans,Bottom,Blue,Classic|Trendy,Casual
+Black jeans,Bottom,Black,Minimal|Trendy,Casual|Party
+Charcoal trousers,Bottom,Charcoal,Classic|Minimal,Formal|Party
+White sneakers,Shoes,White,Minimal|Trendy,Casual
+Brown loafers,Shoes,Brown,Classic,Casual|Formal|Party
+Black formal shoes,Shoes,Black,Classic|Minimal,Formal
+Black loafers,Shoes,Black,Minimal|Trendy,Casual|Party
